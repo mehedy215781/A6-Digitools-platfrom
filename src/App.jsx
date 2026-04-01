@@ -6,6 +6,8 @@ import Product from "./component/Product";
 import Cart from "./component/Cart";
 import Digital from "./component/Digital"
 import Get from "./component/Get"
+import Pricing from "./component/Pricing"
+
 
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
@@ -49,13 +51,7 @@ function App() {
       <Navbar />
       <Banner />
       <Matrix />
-      <Digital></Digital>
-
-     
-      
-      
-      
-      
+      <Digital></Digital>  
 
       <div className="tabs tabs-box justify-center mt-10 bg-transparent border-none gap-3">
         <input 
@@ -112,6 +108,7 @@ function App() {
         theme="light"
       />
        <Get/>
+       <Pricing/>
     
     </div>
   );
