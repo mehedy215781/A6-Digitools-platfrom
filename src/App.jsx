@@ -7,6 +7,8 @@ import Cart from "./component/Cart";
 import Digital from "./component/Digital"
 import Get from "./component/Get"
 import Pricing from "./component/Pricing"
+import Work from "./component/Work"
+
 
 
 import { ToastContainer, toast } from 'react-toastify';
@@ -109,6 +111,7 @@ function App() {
       />
        <Get/>
        <Pricing/>
+       <Work/>
     
     </div>
   );
