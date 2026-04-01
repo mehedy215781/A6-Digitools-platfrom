@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 29,
+    "period": "Mo",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["Unlimited AI generations", "50+ writing templates", "Grammar checker"],
+    "icon": "./Icons/writing_2327400 1.png"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates",
+    "description": "2000+ premium templates for social media, presentations, and marketing.",
+    "price": 49,
+    "period": "One-Time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["2000+ templates", "Monthly updates", "Commercial license"],
+    "icon": "./Icons/design-tool.png"
+  },
+  {
+    "id": 3,
+    "name": "Stock Assets",
+    "description": "Access millions of royalty-free photos, videos, and graphics for your projects.",
+    "price": 19,
+    "period": "Mo",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["10M+ assets", "Commercial use", "No attribution"],
+    "icon": "./Icons/camera.png"
+  },
+  {
+    "id": 4,
+    "name": "Automation Tool",
+    "description": "Automate repetitive tasks and streamline your workflow with powerful AI.",
+    "price": 79,
+    "period": "Mo",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["50+ automations", "API access", "Custom workflows"],
+    "icon": "./Icons/operation.png"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder",
+    "description": "Create professional resumes and cover letters that land interviews instantly.",
+    "price": 15,
+    "period": "One-Time",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "./Icons/portfolio.png"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Kit",
+    "description": "Complete toolkit for creating engaging social media content across platforms.",
+    "price": 39,
+    "period": "Mo",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["5000+ assets", "Scheduler included", "Analytics"],
+    "icon": "./Icons/social-media.png"
+  }
+]
