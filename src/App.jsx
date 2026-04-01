@@ -1,5 +1,6 @@
 import Navbar from "./component/Navbar"
 import Banner from "./Banner/Banner"
+import Matrix from "././Matrics/Matrix"
 
 function App() {
  
@@ -7,6 +8,8 @@ function App() {
     <>
      <Navbar></Navbar>
      <Banner></Banner>
+     <Matrix></Matrix>
+    
      
     </>
   )
