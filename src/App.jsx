@@ -8,6 +8,7 @@ import Digital from "./component/Digital"
 import Get from "./component/Get"
 import Pricing from "./component/Pricing"
 import Work from "./component/Work"
+import Footer from "./component/Footer"
 
 
 
@@ -112,6 +113,7 @@ function App() {
        <Get/>
        <Pricing/>
        <Work/>
+       <Footer/>
     
     </div>
   );

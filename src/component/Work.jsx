@@ -2,10 +2,11 @@ import React from 'react';
 
 const Work = () => {
     return (
-       <section class="w-full py-24 ">
-  <div class=" mx-auto bg-gradient-to-r from-[#682af8] to-[#9022f7]  p-12 md:p-20 text-center shadow-2xl overflow-hidden relative">
+      <section class="w-full py-0 bg-[#0b1221]"> 
+  
+  <div class="bg-gradient-to-r from-[#682af8] to-[#9022f7] p-12 md:p-20 text-center shadow-2xl overflow-hidden relative mb-0">
     
-    <div class=" mx-auto mb-10">
+    <div class="mx-auto mb-10">
       <h2 class="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
         Ready To Transform Your Workflow?
       </h2>
